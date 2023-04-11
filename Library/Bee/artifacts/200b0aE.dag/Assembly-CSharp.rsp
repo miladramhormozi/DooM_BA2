@@ -376,6 +376,7 @@
 "Assets/Scripts/Cannon.cs"
 "Assets/Scripts/Door.cs"
 "Assets/Scripts/Elevator.cs"
+"Assets/Scripts/EnemyBehaviour.cs"
 "Assets/Scripts/FaceCamera.cs"
 "Assets/Scripts/LightBall.cs"
 "Assets/Scripts/Mouse_Look.cs"
